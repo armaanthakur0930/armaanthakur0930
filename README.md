@@ -1,9 +1,52 @@
-- 👋 Hi, I’m @armaanthakur0930
-<!--- 👀 I’m interested in learning data science 
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me IG: armaanthakur0930 --->
+# Hi there, I'm Armaan Thakur! 👋
 
-<!---
-armaanthakur0930/armaanthakur0930 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a B.Tech student specializing in Computer Science and Engineering, with a focus on Artificial Intelligence and Machine Learning at VIT Chennai. I have a passion for data analytics and enjoy transforming complex data into meaningful insights.
+
+## About Me
+
+- 🎓 Pursuing B.Tech in Computer Science and Engineering
+- 🌟 Specialization in AI and ML
+- 📈 Experienced in developing machine learning models and data visualization tools
+- 💻 Proficient in Python, R, C++, and several AI/ML frameworks
+
+## Skills
+
+- **Programming Languages:** Python, R, C, C++, C#, Java
+- **AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV
+- **Data Visualization Tools:** Tableau, Power BI, Matplotlib, Seaborn
+- **Databases:** SQL, NoSQL
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+1. **Recipe Recommendation App**  
+   Developed using Flask, Scikit-learn, and Flutter. This app recommends recipes based on user preferences.
+
+2. **Accident Detection System**  
+   Optimized a Faster R-CNN model with PyTorch to enhance accident detection accuracy in surveillance video streams.
+
+3. **XAI for Credit Risk Assessment**  
+   Utilized decision tree visualization, SHAP, and LIME to explain credit risk assessment models.
+
+4. **ShopAR: Gamify Your Grocery Experience**  
+   An AR-based app that gamifies grocery shopping, using YOLO for item detection and Unity AR Core for implementation.
+
+## Certifications
+
+- AWS Certified Cloud Practitioner
+- Accenture Data Analytics and Visualization
+- Machine Learning (Stanford University & DeepLearning.AI)
+
+## Achievements
+
+- Top 10 in DataXact Datathon (June 2023)
+- Organizing member for Krypthon Hackathon (March 2023)
+
+## Connect with Me
+
+- 📫 Email: your.email@example.com
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/armaan-thakur-49678a233/))
+- 📁 [GitHub]([https://github.com/your-username](https://github.com/armaanthakur0930))
+
+Feel free to reach out if you want to collaborate on projects or just connect!
