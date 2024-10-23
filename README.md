@@ -29,9 +29,6 @@ Here are some of the projects I've worked on:
 3. **XAI for Credit Risk Assessment**  
    Utilized decision tree visualization, SHAP, and LIME to explain credit risk assessment models.
 
-4. **ShopAR: Gamify Your Grocery Experience**  
-   An AR-based app that gamifies grocery shopping, using YOLO for item detection and Unity AR Core for implementation.
-
 ## Certifications
 
 - AWS Certified Cloud Practitioner
@@ -45,7 +42,7 @@ Here are some of the projects I've worked on:
 
 ## Connect with Me
 
-- 📫 Email: your.email@example.com
+- 📫 Email: armaanthakur0930@gmail.com
 - 🌐 [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/armaan-thakur-49678a233/))
 - 📁 [GitHub]([https://github.com/your-username](https://github.com/armaanthakur0930))
 
